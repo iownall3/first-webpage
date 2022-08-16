@@ -21,6 +21,11 @@
     text-align: center;
     gap: 10em;
 }
+.headerlink a{
+    text-decoration: none;
+    color: white;
+    
+}
 
 .first{
     display: flex;
